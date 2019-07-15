@@ -90,7 +90,7 @@ Argo,Argos,
 Argos,Argos,
 Armenia,Armenien,Land
 Armenien,Armenien,Land
-Arno,,
+Arno,,Fluss
 Aréopage,,
 Asaph,,
 Ascalon,,
@@ -111,7 +111,7 @@ Athénes,Athen,Stadt
 Athênes,Athen,Stadt
 Atlantico,Atlantik,Meer
 Atlantico Mare,Atlantik,Meer
-Atlas,,
+Atlas,,Gebirge
 Attene,Athen,Stadt
 Attica,,
 Augusta,,
@@ -140,7 +140,7 @@ Bangor,,
 Bantam,,
 Barbada,,
 Barbarie,,
-Barberia,,
+Barberia,Barberia,
 Barberin,,
 Barcelona,Barcelona,Stadt
 Barcelonne,Barcelona,Stadt
@@ -271,8 +271,8 @@ Californias,Kalifornien,Region
 Calle dalle Acque,,Straße
 Calle dei Savoneri,,Straße
 Cambay,,
-Cambrai,,
-Cambray,,
+Cambrai,Cambray,
+Cambray,Cambray,
 Cambridge,Cambridge,Stadt
 Cambrige,Cambridge,Stadt
 Campalto,,
@@ -463,7 +463,7 @@ Dusseldorp,Düsseldorf,Stadt
 Ecosse,,
 Eden,,
 Edimburgo,,Stadt
-Efeso,,
+Efeso,Ephesos,
 Egina,,
 Egipte,Ägypten,Land
 Egipto,Ägypten,Land
@@ -537,12 +537,12 @@ Funchial,,
 Furnes,,
 Fusina,,
 "G.
-                                                Bretagne",Bretagne,Region
+                                                Bretagne",Großbrittanien,Land
 Gaeta,,
-Gales,,
+Gales,Gales,
 Galias,,
 Galicia,,
-Galles,,
+Galles,Gales,
 Gallie,,
 Gand,,
 Gange,,
@@ -575,23 +575,23 @@ Golden Square,,
 Golfo di Sanlorenzo,,
 Goodman’s fields,,
 "Gr.
-                                            Bretagne",Bretagne,Region
-Gran Brettagna,Bretagne,Region
+                                            Bretagne",Großbrittanien,Land
+Gran Brettagna,Großbrittanien,Land
 Granada,Granada,
-Grand-Bretagne,Bretagne,Region
+Grand-Bretagne,Großbrittanien,Land
 "Grande
-                                    Bretagne",Bretagne,Region
+                                    Bretagne",Großbrittanien,Land
 "Grande
-                                Bretagne",Bretagne,Region
-Grande Bret.,Bretagne,Region
-Grande Bretagne,Bretagne,Region
-Grande Brétagne,Bretagne,Region
-Grande-Bretagne,Bretagne,Region
+                                Bretagne",Großbrittanien,Land
+Grande Bret.,Großbrittanien,Land
+Grande Bretagne,Großbrittanien,Land
+Grande Brétagne,Großbrittanien,Land
+Grande-Bretagne,Großbrittanien,Land
 Granico,,
-Graveline,,
-Gravelines,,
-Gravesanda,,
-Gravesend,,
+Graveline,Graveline,
+Gravelines,Graveline,
+Gravesanda,Gravesend,
+Gravesend,Gravesend,
 Grece,Griechenland,Land
 Grecia,Griechenland,Land
 Grenoble,,
@@ -609,10 +609,10 @@ Guiche,,
 Guinea,,
 Guinée,,
 Guyenne,,
-Gènes,,
-Génes,,
+Gènes,Gènes,
+Génes,Gènes,
 Géorgie,Georgien,Land
-Gênes,,
+Gênes,Gènes,
 Görlitz,,
 Halle,,Stadt
 Hambourg,Hamburg,Stadt
@@ -687,7 +687,7 @@ Islande,Island,Land
 Islington,,
 Isola di Capri,,Insel
 Isola di Tavolara,,Insel
-Isole Canarie,,Insel
+Isole Canarie,Canarie,Insel
 Ispagna,Spanien,Land
 Israel,Israel,Land
 Israele,Israel,Land
@@ -715,7 +715,7 @@ Jomsbourg,,
 Jouy,,
 Jsrael,Israel,Land
 Jtalien,Italien,Land
-Jura,,
+Jura,Jura,Berg
 Jutland,Jütland,Insel
 Jutlande,Jütland,Insel
 Jægersbourg,Jägersburg,Region
@@ -761,8 +761,8 @@ Levante,Levante,Region
 Leyde,Leiden,Stadt
 Leyde ,Leiden,Stadt
 Leyden,Leiden,Stadt
-Liban,Libanon,Land
-Libano,Libanon,Land
+Liban,Liban,Berg
+Libano,,
 Libia,Libyen,Land
 Libye,Libyen,Land
 Lichtenstein,Liechtenstein,Land
@@ -846,8 +846,8 @@ Marcaria,,
 Mare pacifico,Pazifik,Meer
 Maremma,Maremma,
 Maremme,Maremma,
-Marli,,
-Marly,,
+Marli,Marly,
+Marly,Marly,
 Maroco,Marokko,Land
 Marseille,Marseille,Stadt
 Marsella,Marseille,Stadt
@@ -1013,8 +1013,8 @@ Palmire,,
 Panigai,,
 Pankridge,,
 Pantin,,
-Paphos,3,
-Paraguay,,
+Paphos,,
+Paraguay,,Land
 "Parc de St.
                                     James",Parc de St. James,
 Parc de St. James,Parc de St. James,
@@ -1023,12 +1023,12 @@ Paris,Paris,Stadt
 Paris ,Paris,Stadt
 Parma,Parma,Stadt
 Parme,Parma,Stadt
-Parmes,1,
+Parmes,,
 Parnaso,Parnasso,
 Parnasse,Parnasso,
 Parnasso,Parnasso,
-Paros,1,
-Parson’s Green,1,
+Paros,,
+Parson’s Green,,
 Parìs,Paris,Stadt
 París,Paris,Stadt
 Pasíbula,,
@@ -1448,7 +1448,7 @@ Villers-Cotterets,,
 Vincennes,,
 Vinegia,,
 Virginia,,
-Vismar,,
+Vismar,Wismar,
 Vizcaya,,
 Vésuve,Vesuv,Berg
 Wales,,Region
@@ -1470,7 +1470,7 @@ Wien,Wien,Stadt
 Wienn,Wien,Stadt
 Wilt-shire,,
 Winchester,,
-Wismar,,
+Wismar,Wismar,
 Witehall,Whitehall,
 Wittenberg,,
 Woodstock,,
@@ -1489,7 +1489,7 @@ Zoldo,,
 Zurigo,Zürch,Stadt
 Zélande,,
 Zürch,Zürch,Stadt
-barberia,,
+barberia,Barberia,
 bois de Vincennes,,
 caffé de Will,,
 calle de Cerchieri,,Straße
@@ -1512,7 +1512,7 @@ fiorentina,Florenz,Stadt
 fiorentine,Florenz,Stadt
 fiorentini,Florenz,Stadt
 fiorentino,Florenz,Stadt
-grande Bretagne,Bretagne,Region
+grande Bretagne,Großbrittanien,Land
 il Fiesole de’ Livornesi,,
 il canal grande,Canale Grande,Fluss
 india,Indien,Land
@@ -1561,7 +1561,7 @@ las Américas,Amerika,Kontinent
                                     Etna",Etna,Berg
 "le Quartier de la
                                     Nouvelle Forêt",,
-le mont Liban,,
+le mont Liban,Liban,Berg
 los Caños,,
 l’Apennino,,Gebirge
 l’Eglise de S. Clement,,
@@ -1578,7 +1578,7 @@ maremme,Maremma,
 mont Tirzah,Mont Tirzah,Berg
 "monte
                                 Ida",Mont Ida,Berg
-monte Jura,,
+monte Jura,Jura,Berg
 monte Parnaso,Parnasso,
 napoletani,Neapel,Stadt
 nouvelle Zemble,,

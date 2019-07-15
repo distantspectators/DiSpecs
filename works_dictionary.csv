@@ -1,6 +1,6 @@
 Titel,Replacement,Typ,Anzahl
 "
-                                        Pasagonzalo",,,1
+                                        Pasagonzalo",Pasagonzalo,,1
  Essai concernant l’Entendement Humain,,,1
  le XLVII,,,1
 39,,,1
@@ -22,7 +22,7 @@ Alcoran,Koran,Religion,4
 Alessandro nell’Indie,,,1
 Alexandre le Grand,,,1
 Alkoran,Koran,Religion,1
-All’Alzira,,,1
+All’Alzira,All’Alzira,,1
 Almanac,,,1
 Almanach de Liège,,,1
 Almanach des Arts,,,1
@@ -38,18 +38,18 @@ Amour païé d’amour,,,1
                                 Amourettes",,,1
 "Amusement Philosophique sur le Langage des Bêtes, à une Dame de qualité",,,1
 Andrienne,,,1
-Andromaca,,,1
-Andromaque,,,4
-Andromaque Anglois,,,1
-Andrómaca,,,1
+Andromaca,Andromaque,,1
+Andromaque,Andromaque,,4
+Andromaque Anglois,Andromaque,,1
+Andrómaca,Andromaque,,1
 "Ann., lib. I",,,1
 Annales,,,1
-Annales Patriotiques,,,2
-Annales patriotiques,,,1
+Annales Patriotiques,Annales patriotiques,,2
+Annales patriotiques,Annales patriotiques,,1
 Année Littéraire,,,1
 Année Littéraire. Extrait de la regle des devoirs,,,1
-Anti Machiavel,,,1
-Anti-Machiavel,,,3
+Anti Machiavel,Anti-Machiavel,,1
+Anti-Machiavel,Anti-Machiavel,,3
 Anti-Regañon,,,1
 Ar. P.,,,1
 Araucana,,,4
@@ -58,25 +58,25 @@ Arlequin,,,1
 Arlequin Misantrope,,,1
 Armide,,,2
 Arminius,,,1
-Art poëtique.,,,1
-Art. poet.,,,1
+Art poëtique.,Arte Poetica,,1
+Art. poet.,Arte Poetica,,1
 Art.Amat.,,,1
-Arte Poetica,,,3
-Arte poet.,,,1
+Arte Poetica,Arte Poetica,,3
+Arte poet.,Arte Poetica,,1
 Arte senza regole per rendere un Poeta immortale fuori delle Gazzette e nelle Gazzette. Lettera di Soffolto Planomaco a N. N. Accademico Granellesco,,,1
 Artemire,,,1
 Astrée,,,1
-Atalia,,,1
-Athalie,,,4
+Atalia,Atalia,,1
+Athalie,Atalia,,4
 Athys,,,1
-Atilla,,,1
-Attila,,,1
+Atilla,Atilla,,1
+Attila,Atilla,,1
 Aulide,,,1
 Aulularia,,,1
 Aurora,,,1
 "Avantures de
                                 l’Aiman",,,1
-Avantures de Thélemaque,,,1
+Avantures de Thélemaque,Avantures de Thélemaque,,1
 Avare Jaloux,,,1
 Avaro,,,1
 Avis d’un Pere à sa Fille,,,1
@@ -114,12 +114,12 @@ Canzoniere,,,2
 Caractéres,,,1
 Carm. hortat. 133,,,1
 Carnaval du Parnasse,,,1
-Casa Nuova,,,1
-Casa nuova,,,1
+Casa Nuova,Casa Nuova,,1
+Casa nuova,Casa Nuova,,1
 "Casamiento
 de Figaró",,,1
-Cassandre,,,3
-Cassandres,,,1
+Cassandre,Cassandre,,3
+Cassandres,Cassandre,,1
 Castor & Pollux,,,1
 Catilina,,,6
 Cato,,,1
@@ -137,11 +137,11 @@ Chant séculaire,,,1
 Chef d’Œuvre d’un Inconnu,Chef-d’Oeuvre d’un inconnu,,1
 Chef-d’Oeuvre d’un Inconnu,Chef-d’Oeuvre d’un inconnu,,1
 Chef-d’Oeuvre d’un inconnu,Chef-d’Oeuvre d’un inconnu,,1
-Chiffons,,,4
+Chiffons,Chiffons,,4
 Chimiste,,,1
-Chismoso,,,8
+Chismoso,Chismoso,,8
 Christianisme pratique,,,1
-Cid,,,8
+Cid,Cid,,8
 Cimbelina,,,1
 Cinna,,,4
 Circe,,,1
@@ -149,20 +149,20 @@ Cistellaria,,,1
 Clarissa,,,1
 Clark’es Réfléxions on Amintor,,,1
 Clelie,,,1
-Cleomene,,,1
+Cleomene,Cleomene,,1
 Cleone,,,1
 Cleopatre,Kleopatra,,1
-Cleveland,,,2
+Cleveland,Cleveland,,2
 Clitophon,,,1
 Cluverius,,,1
-Cléomene,,,1
+Cléomene,Cleomene,,1
 Cléopatre,Kleopatra,,1
-Cléveland,,,1
+Cléveland,Cleveland,,1
 Coligny,,,1
 Commentaires Royaux de Pérou,,,1
 "Comte
-                                de Gabalis",,,1
-Comte de Gabalis,,,1
+                                de Gabalis",Comte de Gabalis,,1
+Comte de Gabalis,Comte de Gabalis,,1
 Concorde,,,1
 Confessions,,,1
 Confessions d’un Fat,,,2
@@ -178,7 +178,7 @@ Contes Turcs,,,1
 Contes des Fées,,,1
 Contra Deum pugnare non est facile,,,1
 Conversaciones instructivas,,,1
-Coran,,,2
+Coran,Koran,,2
 Correo de Murcia,,,1
 Corvo,,,4
 "Courier
@@ -186,15 +186,15 @@ Corvo,,,4
 Courier d’Avignon,,,1
 Critique des critiques d’Inés de Castro,,,1
 Cromwell,,,1
-Cyropedie,,,1
-Cyropédie,,,1
+Cyropedie,Cyropedie,,1
+Cyropédie,Cyropedie,,1
 Cyrus,,,3
-Daily Courant,,,1
-Daily-Courant,,,1
+Daily Courant,Daily Courant,,1
+Daily-Courant,Daily Courant,,1
 Davideïde,,,1
 De Amic.,,,1
-De Art. Poet.,,,2
-De Arte poët.,,,1
+De Art. Poet.,Arte Poetica,,2
+De Arte poët.,Arte Poetica,,1
 De Benef.,,,1
 De Off.,,,1
 "De art. am., lib. I.",,,1
@@ -210,8 +210,8 @@ Demost. Encom.,,,1
 Demosthene,,,1
 Derniéres paroles des futurs Pendus,,,1
 Desdemona,,,1
-Devin du Village,,,1
-Devin du village,,,1
+Devin du Village,Devin du Village,,1
+Devin du village,Devin du Village,,1
 Dialogo decimo della Repubblica,,,1
 Diario,,,9
 "Diario
@@ -224,11 +224,11 @@ Diario de Madrid,Diario de Madrid,,3
 Diarios,,,1
 Diarios de Madrid,Diario de Madrid,,1
 "Dictionnaire de
-                                Morery",,,1
+                                Morery",Dictionnaire de Morery,,1
 "Dictionnaire de
-                                l’Académie",,,1
-Dictionnaire de Morery,,,1
-Dictionnaire de l’Academie,,,1
+                                l’Académie",Dictionnaire de l’Academie,,1
+Dictionnaire de Morery,Dictionnaire de Morery,,1
+Dictionnaire de l’Academie,Dictionnaire de l’Academie,,1
 Dictionnaire encyclopédique,,,1
 Didone,,,1
 Digression sur les Anciens & les Modernes,,,1
@@ -256,23 +256,23 @@ Don Quixote,Don Quichotte,Roman,1
 Dr. Tillotson,,,1
 Défense de l’Astrologie,,,2
 Défense du Gouvernement Patriarchal,,,1
-Délices de Dannemarc,,,1
-Délices du Dannemarc,,,1
+Délices de Dannemarc,Délices de Dannemarc,,1
+Délices du Dannemarc,Délices de Dannemarc,,1
 Démonstration de l’Existence & des Attributs de Dieu,,,1
 Démophon,,,1
-EL REGAÑON GENERAL,,,1
+EL REGAÑON GENERAL,el Regañon,,1
 Eccl.,,,1
 Ecl.,,,1
 Eclo.,,,1
-Eclog.,,,1
-Ecloghe,,,1
-Eclogue,,,1
-Eclogues,,,2
+Eclog.,Ecloghe,,1
+Ecloghe,Ecloghe,,1
+Eclogue,Ecloghe,,1
+Eclogues,Ecloghe,,2
 "Ecole du
                                 Monde",,,1
-Ecriture Sainte,,,2
-Ecriture sainte,,,1
-Ecritures Saintes,,,1
+Ecriture Sainte,Ecriture Sainte,,2
+Ecriture sainte,Ecriture Sainte,,1
+Ecritures Saintes,Ecriture Sainte,,1
 Edele de Ponthieu,,,1
 Edgar,,,1
 Edipe,,,1
@@ -285,12 +285,12 @@ Eglé,,,1
                                         Gusto del dia",,,1
 "El
                                     Traductor",,,1
-El Anti-Regañon,,,1
+El Anti-Regañon,El Anti-Regañon,,1
 "El Anti-Regañon
-                                    general",,,2
+                                    general",El Anti-Regañon,,2
 "El Castigo de la
                                         miseria",,,1
-El Chismoso,,,2
+El Chismoso,Chismoso,,2
 El Correo mercantil de España y sus Indias,,,1
 El Curioso Entretenido,,,1
 "El Diario de
@@ -302,8 +302,8 @@ El Paraíso,,,1
 "El Regañón de la
 Havana",,,1
 "El Zeloso
-                                    y la Tonta",,,1
-El Zeloso y la Tonta,,,1
+                                    y la Tonta",El Zeloso y la Tonta,,1
+El Zeloso y la Tonta,El Zeloso y la Tonta,,1
 Elettra,,,1
 Eliade,,,1
 Elixir salutis,,,1
@@ -324,8 +324,8 @@ Eneida,Aeneis,,3
 Eneide,Aeneis,,7
 Eneidi,Aeneis,,1
 Eneïde,Aeneis,,6
-Entretenido,,,1
-Entretenidos,,,1
+Entretenido,Entretenido,,1
+Entretenidos,Entretenido,,1
 Entretiens,,,1
 "Entretiens du Diable borgne, & du Diable boiteux",,,1
 "Entretiens sur la
@@ -339,10 +339,10 @@ Ep. lib. I.,,,1
 "Ep., lib. II, ep. 1.",,,1
 Ephese,,,1
 Epig.,,,1
-Epist.,,,6
-"Epist. VIII, lib. II.",,,1
-Epist. XLV,,,1
-Epistole,,,1
+Epist.,Epist.,,6
+"Epist. VIII, lib. II.",Epist.,,1
+Epist. XLV,Epist.,,1
+Epistole,Epist.,,1
 Epistole poetiche,,,1
 Ercole al Bivio,,,2
 Esame di un libro sopra la Maremma senese,,,1
@@ -350,8 +350,8 @@ Esame di un libro sopra la Maremma senese,,,1
                                         supuestos",,,1
 Esculapio,,,1
 Esope à la Cour,,,2
-Espectador,,,1
-Espectador Ingles,,,1
+Espectador,Spectateur,,1
+Espectador Ingles,Spectateur Anglais,,1
 Esposa delinqüente,,,1
 Esprit des Loix,,,2
 Essai,,,1
@@ -448,11 +448,11 @@ Hamlet,Hamlet,,2
 Heccira,,,1
 Henri & Perrine,,,1
 Henri VIII,,,1
-Henriade,,,3
+Henriade,Henriade,,3
 Herod.,,,1
 Hip.,,,1
-His. nat.,,,1
-Hist. D’Angleterre,,,1
+His. nat.,Historia natural,,1
+Hist. D’Angleterre,Histoire d’Angleterre,,1
 Hist. Eccles.,,,1
 Hist. Romaine,,,1
 Hist. de la Guerre des Juifs contre les Romains,,,1
@@ -476,25 +476,25 @@ Histoire des Ouvrages des Ignorans,,,1
 Histoire des Provinces-Unis,,,1
 Histoire du Calendrier,,,1
 Histoire du Costume,,,1
-Histoire d’Angleterre,,,1
+Histoire d’Angleterre,Histoire d’Angleterre,,1
 "Historia
                                 Critica de España",,,1
-Historia natural,,,1
+Historia natural,Historia natural,,1
 Hombre de tres caras,,,1
 "Homer, traduit par M. * * *",,,1
 Homere vangé,,,1
 "Homme
                                 Démasqué",,,1
 Hora.,,,1
-Horace,,,1
-Horaces,,,3
+Horace,Horace,,1
+Horaces,Horace,,3
 Hudibras,,,1
 Héraclius,,,1
 I. 8. e. I,,,1
 Idilio de Gesnero,,,1
-Idille,,,1
-Idillii,,,1
-Idylle,,,1
+Idille,Idylle,,1
+Idillii,Idylle,,1
+Idylle,Idylle,,1
 Ifigenia in Aulide,Iphigenie,,2
 Ignez,,,1
 Il Dente posticcio.,,,1
@@ -506,9 +506,9 @@ Iliade,Iliad,,28
 Illiada,Iliad,,1
 Illiade,Iliad,,4
 Imeneo,,,1
-"Inf., c. XXVIII.",,,1
-"Inf., canto I.",,,1
-Inferno,,,1
+"Inf., c. XXVIII.",Inferno,,1
+"Inf., canto I.",Inferno,,1
+Inferno,Inferno,,1
 "Inst., lib. X, e. VII.",,,1
 Introduction à l’Histoire,,,1
 Inès de Castro,Inès de Castro,,1
@@ -518,7 +518,7 @@ Iphigenie,Iphigenie,,1
 Iphigénie en Tauride,Iphigenie,,1
 Istoria degli uccelli tom. 4. in Firenze 1773,,,1
 Istruzione a’Giusdicenti del Granducato di Toscana,,,1
-Jazeur,,,1
+Jazeur,Jazeur,,1
 Jeremías,,,1
 Jerusalen,,,2
 "Jesu, Lexicon Biblicum",,,1
@@ -536,31 +536,31 @@ Jubilé,,,1
 Juge de la Campagne,,,1
 Jule-César,,,1
 Jérusalem délivrée,,,1
-Koran,,,1
+Koran,Koran,,1
 L. 3. Ode. I. 4,,,1
 "LA LUGAREÑA
 ORGULLOSA",,,1
 LA MOZA DE CÁNTARO,,,1
 "La
-                                        Andria",,,1
+                                        Andria",la Andria,,1
 "La
                                         Gazeta",,,1
 "La
-                                    Bagatelle",La Bagatelle,,1
+                                    Bagatelle",Bagatelle,,1
 "La
-                                Bagatelle",La Bagatelle,,4
-La Bagatelle,La Bagatelle,,2
-La Bagatelle ,La Bagatelle,,1
+                                Bagatelle",Bagatelle,,4
+La Bagatelle,Bagatelle,,2
+La Bagatelle ,Bagatelle,,1
 La Bella Mano,,,1
 La Bona Mare,,,1
 La Casa nuova,,,1
 "La Clef des interêts simples & composez, contentant des regles pratiques claires & étendues, pour toutes sortes d’interets, & pour les termes du payement, quels qu’ils puissent être.",,,1
 "La Compagnia dei Salvadeghi, o sia i Rusteghi",,,1
 La Création,,,1
-La Henriade,,,1
+La Henriade,Henriade,,1
 La Lugareña orgullosa,,,2
 "La Metamorphose des haillons, la Metamorfosi de’Cenci",,,1
-La Morte d’Adamo,,,2
+La Morte d’Adamo,La morte d’Adamo,,2
 La Moza de Cántaro,,,1
 La Poetica alla Moda,,,1
 La Prude,,,1
@@ -572,19 +572,19 @@ La fausseté des Vertus Humaines,,,1
 La morte di Adamo,La morte d’Adamo,,1
 La morte d’Adamo,La morte d’Adamo,,1
 "Le
-                                Misantrope",,,1
+                                Misantrope",Misantrope,,1
 Le Désastre de Lisbonne,,,1
 Le Gardien,,,1
-Le Jazeur,,,1
+Le Jazeur,Jazeur,,1
 Le Lutrin,,,1
-Le Misantrope,,,1
+Le Misantrope,Misantrope,,1
 Le Monde comme il est,,,1
 Le Nouveau Diogene,,,1
 Le Nuvole,,,1
 Le Renard,,,1
-Le Spectateur,,,1
-Le Spectateur François,,,1
-"Le Spectateur, ou le Socrate moderne",,,1
+Le Spectateur,Spectateur,,1
+Le Spectateur François,Spectateur Français,,1
+"Le Spectateur, ou le Socrate moderne",Spectateur,,1
 Le miroir du Gouvernement,,,1
 Le vrai Moïen de vivre plus de cent ans dans une santé parfaite,,,1
 "Leg. 14, Cod. de Adv.",,,1
@@ -592,11 +592,11 @@ Leggío,,,1
 "Les
                                 Génies assistans & les Gnômes irréconciliables",,,1
 Les Charmes de la Solitude,,,1
-Les Chiffons,,,1
+Les Chiffons,Chiffons,,1
 "Les Coups de patte du Frère Nicolas, par M. L. B. D. B. Première Estafilade",,,1
 Les Dialogues à l’imitation de Lucien par M. * * *,,,1
 Les Francs-Maçons trahis,,,1
-Les Francs-Maçons écrasés,,,1
+Les Francs-Maçons écrasés,Les Francs-Maçons écrasés,,1
 Les Moyens de prévenir la ruine des Chrétiens,,,1
 Les Plaintes des Protestans,,,3
 Les Plaisirs innocens de la Vie Rustique,,,1
@@ -606,7 +606,7 @@ Les Vaporeux : livre à l’usage des Cavaliers ennuïeux & des Dames ennuiées
 Les Visions de Mirza,,,1
 Les agrémens du langage reduis à leurs principes,,,1
 Les bons Mots de Charles II,,,1
-Les delices de Dannemarc,,,1
+Les delices de Dannemarc,Délices de Dannemarc,,1
 Les ennuisdu <sic> Carnaval,,,2
 Les suppositions,,,1
 Lettera riguardante il Lusso,,,1
@@ -672,9 +672,9 @@ L’innocent Adultere,,,1
 L’ode à la Fortune,,,1
 M.,,,1
 MEDEA a GIASONE,,,1
-Macabées,,,1
+Macabées,Macabées,,1
 Macbeth,Macbeth,,2
-Machabées,,,1
+Machabées,Macabées,,1
 Makbeth,Macbeth,,1
 "Maniére
                                 de bien penser",,,1
@@ -682,7 +682,7 @@ Manni,,,1
 Manolo,,,1
 Maometto,,,1
 Mariages Persans,,,1
-Mariamne,Marianne,,4
+Mariamne,,,4
 Mariane,Marianne,,1
 Marianne,Marianne,,3
 Marot,,,2
@@ -700,9 +700,9 @@ Memorial Literario,Memorial Literario,,1
 Memorial literario,Memorial Literario,,6
 Memorias Destructivas,,,1
 Menagiana,,,1
-Mentor Moderne,,,2
+Mentor Moderne,Mentor Moderne,,2
 Mercante di Venezia,,,1
-Mercure,,,8
+Mercure,Mercure,,8
 Mercure Athenien,,,1
 Mercure Galant,Mercure Galant,,1
 Mercure de France,Mercure de France,,1
@@ -737,7 +737,7 @@ Morgante,,,1
 Moribus antiquis,,,1
 Morta di Cesare,,,1
 Morte d’Abelle,,,2
-Morte d’Adamo,,,1
+Morte d’Adamo,La morte d’Adamo,,1
 Most.,,,1
 Moza de Cántaro,,,1
 Muerte de Abel,,,1
@@ -771,8 +771,8 @@ Nouveau Spectateur,,,5
 Nouveautez,,,1
 Nouveautez dediées à gens de differens états depuis la Charrué jusqu’au Sceptre,,,1
 Nouveaux Essais de Morale,,,3
-Nouvelle Atlantis,,,1
-Nouvelles de l’Atlantide,,,1
+Nouvelle Atlantis,Nouvelle Atlantis,,1
+Nouvelles de l’Atlantide,Nouvelle Atlantis,,1
 "Nouvelles d’Antoine-François Grazzini, dit le Lasca",,,1
 Novella Orientale.,,,1
 Novelle Morali,,,2
@@ -780,11 +780,11 @@ Nozze di Dorina,,,1
 Nuovo Segreto,Nuovo Segreto,,6
 Nuovo Segreto per,Nuovo Segreto,,1
 Nuovo Testamento,,,1
-Nuovo segreto,,,2
+Nuovo segreto,Nuovo Segreto,,2
 O Imitatores,,,1
 "Observations sur la société, et sur les moyens de ramener l’ordre et la sécurité dans son sein",,,1
-Od,,,1
-Od.,,,5
+Od,Od.,,1
+Od.,Od.,,5
 Ode,,,2
 "Ode au Créateur de l’Univers, à l’occasion des Fragmens
                                     d’Orpheé.",,,1
@@ -798,7 +798,7 @@ Odissea,Odissea,,5
 "Odissea, X.",Odissea,,1
 Odissée,Odissea,,1
 Odyssée,Odissea,,3
-Oedipe,,,2
+Oedipe,Oedipe,,2
 Oeuv. posth.,,,1
 Off.,,,1
 Omelie,,,1
@@ -839,7 +839,7 @@ Pastor fido,Pastor Fido,,1
 Pazza per amore,,,1
 Penelope,,,1
 Pensador,,,1
-Pensadora,,,3
+Pensadora,Pensadora,,3
 Pensadoras,,,1
 Pensées,,,1
 Pensées Philosophiques,,,1
@@ -888,8 +888,8 @@ Prov. 19,,,1
 Proverbios morales.,,,1
 Provotz d’husband,,,1
 "Précieuses
-                                Ridicules",,,1
-Précieuses ridicules,,,1
+                                Ridicules",Précieuses ridicules,,1
+Précieuses ridicules,Précieuses ridicules,,1
 Pucelle,,,2
 Pucelle d’Orléans,,,1
 "Purg., c. X.",Purgatorio,,1
@@ -909,8 +909,8 @@ Recherche de la Verité,,,1
 Reconciliacion,,,1
 Recueil des Poësies Morales & Chrétiennes,,,1
 Recueil des meilleures Pièces de Poësie,,,1
-Regañon,,,21
-Regañon general,,,3
+Regañon,el Regañon,,21
+Regañon general,el Regañon,,3
 Regia Parnassi,,,1
 Reine Enchanteresse,,,1
 "Religio
@@ -1055,11 +1055,11 @@ Traité des Opinions,,,1
 Traité du Droit Public de l’Europe,,,1
 Tratt. del Gov. della Fam.,,,1
 "Tribunal
-                                        Catoniano",,,1
-Tribunal Catoniano,,,1
+                                        Catoniano",Tribunal Catoniano,,1
+Tribunal Catoniano,Tribunal Catoniano,,1
 Trionfo di Bacco,,,1
-Trist.,,,1
-Trist. Lib. 3.,,,1
+Trist.,Trist.,,1
+Trist. Lib. 3.,Trist.,,1
 Troadi,,,1
 Tusch. quest.,,,1
 Tuscul. lib. V,,,1
@@ -1122,14 +1122,14 @@ canaux navigables,,,1
 chap. I. Art. I.,,,1
 chap.I. art. I.,,,1
 coutume de Beauvoisis,,,1
-de Art. Poet.,,,2
-de Art. poet.,,,1
+de Art. Poet.,Arte Poetica,,2
+de Art. poet.,Arte Poetica,,1
 de Consideratione,,,1
 de Medicina Brasiliensi,,,1
 de Mor. Ger.,,,1
 "de Off. I. 2, c. 18",,,1
 de Offic.,,,1
-de art. Poët.,,,1
+de art. Poët.,Arte Poetica,,1
 de la Consolation de la Philosophie,,,1
 de off.,,,1
 "del
@@ -1150,7 +1150,7 @@ discours sur la liberté de penser,,,1
 dissert. crit.,,,1
 du Renard & du Buste,,,1
 "el
-                                        Gusto del dia",,,2
+                                        Gusto del dia",el Gusto del dia,,2
 "el
                                         Pasagonzalo",Pasagonzalo,,1
 "el
@@ -1159,10 +1159,10 @@ Memorial literario",,,1
 Viage á Grecia",,,1
 el Café,,,2
 el Califa,,,1
-el Chismoso,,,1
+el Chismoso,Chismoso,,1
 "el Gusto del
-                                        dia",,,1
-el Gusto del dia,,,2
+                                        dia",el Gusto del dia,,1
+el Gusto del dia,el Gusto del dia,,2
 "el Hechizado
                                         por fuerza",,,1
 el Marinerito,,,1
@@ -1181,8 +1181,8 @@ confundido",,,1
 ep.,,,3
 ep. LXVIII,,,1
 ep. VI.,,,1
-epist.,,,1
-epist. XIV. lib. I.,,,1
+epist.,Epist.,,1
+epist. XIV. lib. I.,Epist.,,1
 foglio Economico,,,1
 folle sageße,,,1
 giocondi uomini Toscani,,,1
@@ -1199,11 +1199,11 @@ journal politique de Bouillon,,,1
 "la
                                             Orgullosa",,,1
 "la
-                                        Andria",,,1
+                                        Andria",la Andria,,1
 "la
-                                        Estrella de Sevilla",,,1
+                                        Estrella de Sevilla",Estrella de Sevilla,,1
 "la
-                                        Misantropía",,,1
+                                        Misantropía",Misantrope,,1
 "la
                                         Mogigata",,,1
 "la
@@ -1232,7 +1232,7 @@ Esposa delinqüente",,,1
 Familia árabe",,,1
 "la
 Misantropía",Misantrope,,1
-la Andria,,,1
+la Andria,la Andria,,1
 la Araucana,,,2
 la Bagatelle,Bagatelle,,11
 la Bagatelle ,Bagatelle,,1
@@ -1252,14 +1252,14 @@ la Fable des Abeilles,,,1
 la Force de l’Amour,,,1
 la Gazeta,Gazzetta,,2
 "la Gazeta de
-                                    Bayona de Francia",,,1
+                                    Bayona de Francia",la Gazeta de Bayona,,1
 "la Gazeta de
                                     Comercio, Literatura y Política",,,1
-la Gazeta de Bayona,,,1
+la Gazeta de Bayona,la Gazeta de Bayona,,1
 "la Gazeta de Bayona de
-                                    Francia",,,1
+                                    Francia",la Gazeta de Bayona,,1
 la Gazette,Gazzetta,,2
-la Henriade,,,4
+la Henriade,Henriade,,4
 la Jerusalem délivrée,la Jérusalem délivrée,,1
 la Jérusalem délivrée,la Jérusalem délivrée,,1
 la Ligue,,,1
@@ -1270,17 +1270,17 @@ la Lugareña orgulloso,la Lugareña orgullosa,,1
 la Misantropia,Misantrope,,1
 la Misantropía,Misantrope,,2
 la Morale Chrétienne,,,4
-la Morte d’Adamo,,,1
+la Morte d’Adamo,La morte d’Adamo,,1
 la Moza de Cántaro,,,1
 "la Muerte
                                         de Abel",la Muerte de Abel,,1
 la Muerte de Abel,la Muerte de Abel,,1
-la Pensadora,,,1
+la Pensadora,Pensadora,,1
 la Pensadora Gaditana,,,1
 la Pharmacopée,,,1
 la Pierre Philosophale des Dames,,,1
 la Princesse de Monpensier,,,1
-la Pucelle,,,1
+la Pucelle,la pucelle,,1
 la Quintessence,Quintessence,,1
 la Religion,la Religion,,2
 la Religion prouvée par les faits,,,1
@@ -1288,7 +1288,7 @@ la Ruine d’annibal,,,1
 la Réligion,la Religion,,1
 la Sagesse de Salomon,,,1
 la Sofía,,,1
-la Spectatrice,,,2
+la Spectatrice,Spectatrice,,2
 la Tempête,,,1
 la bouche de fer,,,1
 la bucólica,,,1
@@ -1299,13 +1299,13 @@ la forest de Windsor,,,1
 la gazette d’Hollande,,,1
 la mort de César,,,1
 la nouvelle Encyclopédie,,,1
-la pucelle,,,1
+la pucelle,la pucelle,,1
 lanternes magiques,,,1
 "las
-                                        Nubes",,,1
+                                        Nubes",las Nubes,,1
 "las
                                     églogas",,,1
-las Nubes,,,1
+las Nubes,las Nubes,,1
 "le
                                         Miroir",,,1
 "le
@@ -1320,7 +1320,7 @@ le Bourru Bienfaisant,,,1
                                     Jouvence",,,1
 le Censeur,,,1
 le Chevalier du Pilon brûlant,,,1
-le Cid,,,1
+le Cid,Cid,,1
 le Colonel mécontent,,,1
 le Comedien,,,1
 le Courtizan,,,1
@@ -1331,7 +1331,7 @@ le Fils naturel,,,1
 le Gardien,,,2
 "le Grand
                                 Cirus",,,1
-le Jazeur,,,1
+le Jazeur,Jazeur,,1
 le Joueur,,,2
 le Journal Encyclopédique,,,1
 le Journal des Sçavans,,,1
@@ -1339,15 +1339,15 @@ le Jubilé,,,2
 "le Livre de
                                     Job",,,1
 le Mendiant de la Cour,,,1
-le Mentor Moderne,,,2
-le Mentor moderne,,,1
-le Mercure,,,1
-le Mercure Galant,,,1
+le Mentor Moderne,Mentor Moderne,,2
+le Mentor moderne,le Mentor Moderne,,1
+le Mercure,Mercure,,1
+le Mercure Galant,Mercure Galant,,1
 le Misantrope,Misantrope,,3
 le Monde,Monde,,3
 le Monde comme il est,Monde,,3
 le Médecin malgré lui,,,1
-le Paradis perdu,,,1
+le Paradis perdu,Paradis Perdu,,1
 le Parfait Ambassadeur,,,1
 le Postillon,,,1
 le Pourceau a perdu sa perle,,,1
@@ -1373,17 +1373,17 @@ le systême de la nature,le Systême de la Nature,,1
 "les
                                             Fácheux",,,1
 "les
-                                Avantures de Telémaque",,,1
+                                Avantures de Telémaque",Avantures de Thélemaque,,1
 "les
-                                Avantures de Télémaque",,,1
+                                Avantures de Télémaque",Avantures de Thélemaque,,1
 les Bijoux indiscrèts,,,1
 les Caracteres,,,1
 les Caractéres & Mœurs de ce Siécle,,,1
-les Chiffons,,,3
+les Chiffons,Chiffons,,3
 "les Chiffons, ou Mélange de Raison & de Folie",,,1
 les Cocus de Londres,,,1
 les Contes Arabes,,,1
-les Francs-Maçons écrasés,,,1
+les Francs-Maçons écrasés,Les Francs-Maçons écrasés,,1
 les Lettres Persannes,,,1
 les Loix de Crête,,,1
 "les Poëtes
@@ -1399,8 +1399,8 @@ les facheux,,,1
 les fêtes vénitiennes,,,1
 les indes galantes,,,1
 les nouvelles Litteraires,,,1
-les quatre P,,,1
-les quatre P.,,,1
+les quatre P,les quatre P,,1
+les quatre P.,les quatre P,,1
 lettere Persiane,,,1
 lib XI. c. 2,,,1
 lib. 2 in Ruf,,,1
@@ -1416,7 +1416,7 @@ lib. VI.,,,1
 lib. VII.,,,1
 "lib. XV, ch. 5, del’Esclavage dei Nègres",,,1
 lib. x. cap. 50,,,1
-lliada,,,1
+lliada,Iliad,,1
 "los Eruditos á la
                                         violeta",,,1
 l’Almanach ou Manach de la St Jean,,,1
@@ -1430,8 +1430,8 @@ l’Année Littéraire,,,1
 l’Apollon Anglois,,,1
 l’Arcadie,,,1
 l’Arithmetique,,,1
-l’Art Poétique,l’Art Poétique,,2
-l’Art poétique,l’Art Poétique,,2
+l’Art Poétique,Arte Poetica,,2
+l’Art poétique,Arte Poetica,,2
 l’Association des Idées,,,1
 l’Astrée,,,1
 l’Avare Amoureux,,,1
@@ -1452,12 +1452,14 @@ l’Europe galante,,,1
 l’Habitant de la Guadeloupe,,,1
 l’Histoire,,,1
 "l’Histoire
-                                    naturelle du Comté de Strafford",,,1
+                                    naturelle du Comté de Strafford","l’Histoire naturelle
+                                    du Comté de Stafford",,1
 "l’Histoire de D. Juan de Portugal, fils de D. Pedre & d’Inès de Castro",,,1
 "l’Histoire naturelle
-                                    du Comté de Stafford",,,1
+                                    du Comté de Stafford","l’Histoire naturelle
+                                    du Comté de Stafford",,1
 l’Homme Machine,,,3
-l’Iliade,,,1
+l’Iliade,Iliad,,1
 l’Inquisiteur,,,1
 l’Institution de la Religion Chrêtienne,,,1
 "l’Isle
@@ -1473,7 +1475,7 @@ l’Orator Romano,,,1
 l’Orpheline,,,1
 l’Unzione del real profeta Davidde,,,1
 l’Utopie,,,1
-l’art Poëtique,,,1
+l’art Poëtique,Arte Poetica,,1
 l’art d’aimer,,,1
 "l’avancement du
                                         Savoir",,,1
@@ -1481,7 +1483,7 @@ l’histoire du Roi Edgar,,,1
 l’homme universel,,,1
 l’égalité des deux Sexes,,,1
 l’éleve de Terpsicore,,,1
-mi Chismoso,,,1
+mi Chismoso,Chismoso,,1
 nouveau Spectateur,,,2
 nouveau systême de la nature,nouveau systême à la nature,,1
 nouveau systême à la nature,nouveau systême à la nature,,1
@@ -1501,14 +1503,14 @@ spectateur,Spectateur,,2
 spectateur Anglois,Spectateur Anglais,,1
 spectateur anglois,Spectateur Anglais,,1
 "su
-                                        Regañon",,,1
+                                        Regañon",el Regañon,,1
 su comedia chismosa,,,1
 sur la Priere,,,1
 sur le Baptême des petits Enfans,,,1
 sur l’Apocalypse,,,1
 sus bucólicas,,,1
-système de la nature,,,1
-systême de la nature,,,1
+système de la nature,Systême de la Nature,,1
+systême de la nature,Systême de la Nature,,1
 the unhapy Orphan,,,1
 "un monde fou, mes Maitres",,,1
 un’Opera in versi in lode del Voltaire,,,1
@@ -1523,7 +1525,7 @@ voyage d’Italie,,,1
 Æneïd,Aeneis,,1
 Ænid.,Aeneis,,1
 Églé,,,2
-Œdipe,,,4
+Œdipe,Oedipe,,4
 Œdipe à Colone,,,1
 Œuvres mêlées,,,1
 Ӕneïde,Aeneis,,1
