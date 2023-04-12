@@ -1,8 +1,8 @@
 # Topic Modeling of the Distant Spectators
 
 ## Author:
-Sanja Saric
-Centre for Information Modelling - Austrian Centre for Digital Humanities, University of Graz
+Sanja Saric 
+(Centre for Information Modelling - Austrian Centre for Digital Humanities, University of Graz), 
 ORCID: https://orcid.org/0000-0002-0802-6999
 ##
 
