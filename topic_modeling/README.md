@@ -1,4 +1,4 @@
-# Topic Modeling of the Distant Spectators
+# Topic Modeling Workflow of the Distant Spectators
 
 ## Author:
 Sanja Saric <br/>
